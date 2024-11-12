@@ -1,0 +1,39 @@
+body {
+
+    text-align: center;
+    margin-top: 50px;
+}
+h1 {
+    font-size:80px;
+    font-weight: bold;
+    font-family: "Faculty Glyphic", sans-serif;
+}
+p{
+    font-size: 40px;
+}
+#quote {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+#author {
+    font-size: 1.2em;
+    font-style: italic;
+    margin-top: 10px;
+}
+#new-quote {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+}
+#new-quote:hover{
+  
+    background-color: rgb(55, 130, 5);
+
+}
